@@ -119,11 +119,9 @@ gcc -std=c99 -Wall -Wextra -Werror -pedantic -Wshadow -Wstrict-prototypes -Wmiss
 ```
 
 Additional static analysis tools:
-- Coverity
+- Valgrind
+- gdb
 - Cppcheck
-- SonarQube
-- PRQA (Programming Research QA)
-- MISRA C checkers
 
 ## Contact
 
