@@ -108,8 +108,6 @@ These standards are designed to enable the development of verifiable, reliable s
 - **Module documentation**: Clear module-level documentation
 - **Function comments**: Function header comments explaining purpose and constraints
 
-## Example Implementations
-
 ## Verification Tools
 
 Recommended tools for verifying compliance with these standards:
